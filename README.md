@@ -1,2 +1,2 @@
-# Interlock-control-using-CPLD
-Use CPLD to achieve interlock control 
+# Interlock-control-6X8
+6X8 interlock control by MAXII CPLD
